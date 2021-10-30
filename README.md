@@ -9,6 +9,6 @@ You can add your own commands by editing the DATA.txt file after downloading it 
 #  Want to add a feature/ contribute?
 - Fork this repository.
 - Add the feature to the forked repository
-- mail the link of the new forked repository to minds0987@gmail.com
+- mail the link of the new forked repository to minds0987@gmail.com 
 
-THIS REPOSITORY IS ARCHIVED. BUT WE APPRECIATE FURTHER CONTRIBUTIONS
+THIS REPOSITORY IS ARCHIVED. WE APPRECIATE FURTHER CONTRIBUTIONS
